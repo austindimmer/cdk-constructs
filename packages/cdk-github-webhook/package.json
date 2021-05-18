@@ -58,18 +58,18 @@
     }
   },
   "peerDependencies": {
-    "@aws-cdk/aws-lambda": "^1.102.0",
-    "@aws-cdk/core": "^1.102.0",
+    "@aws-cdk/aws-lambda": "^1.101.0",
+    "@aws-cdk/core": "^1.101.0",
     "@cloudcomponents/cdk-secret-key": "^1.8.0",
     "constructs": "^3.2.0"
   },
   "dependencies": {
-    "@aws-cdk/aws-lambda": "^1.102.0",
-    "@aws-cdk/core": "^1.102.0",
+    "@aws-cdk/aws-lambda": "1.101.0",
+    "@aws-cdk/core": "1.101.0",
     "@cloudcomponents/cdk-secret-key": "^1.8.0"
   },
   "devDependencies": {
-    "@aws-cdk/assert": "^1.102.0",
+    "@aws-cdk/assert": "1.101.0",
     "@cloudcomponents/lambda-utils": "^0.2.0",
     "@octokit/rest": "^18.5.3",
     "@types/parse-github-url": "^1.0.0",
